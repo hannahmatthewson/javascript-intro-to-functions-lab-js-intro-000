@@ -18,7 +18,7 @@ function sayHiToGrandma(string) {
     case (string.toUpperCase()):
       return "YES INDEED!";
       break;
-    case ("I love you, Grandma." == string:
+    case ("I love you, Grandma." == string):
       return "I love you, too.";
       break;
     default:
